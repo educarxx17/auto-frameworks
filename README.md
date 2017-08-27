@@ -5,6 +5,9 @@ This repository contains different test automation frameworks I tried using diff
 Mainly this will keep my R&D work in one common place.
 
 
+
+## Basic Git commands
+
 * Add files to master
 ```
 git add * (or file name)
