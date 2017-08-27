@@ -1,4 +1,4 @@
-# auto-frameworks
+# Auto-frameworks
 
 This repository contains different test automation frameworks I tried using different tools. 
 
